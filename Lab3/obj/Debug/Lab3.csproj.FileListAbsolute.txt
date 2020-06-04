@@ -1,0 +1,7 @@
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab3\bin\Debug\Lab3.exe
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab3\obj\Debug\Lab3.exe
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab3\obj\Debug\Lab3.pdb
